@@ -37,7 +37,7 @@ Git (optional): For version control.
 
 Setup Instructions
 1. Clone the Repository
-git clone <repository-url>
+git clone https://github.com/quaziyadgar/book-store-server.git
 cd bookstore
 
 2. Install Dependencies
